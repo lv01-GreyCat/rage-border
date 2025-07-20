@@ -1,0 +1,13 @@
+name = "Redstone Torch Backport Supporter"
+filename = "Redstone Torch Backport Supporter §cv1.2§r.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/81HKpFAE/versions/16bfnopl/Redstone%20Torch%20Backport%20Supporter%20%C2%A7cv1.2%C2%A7r.zip"
+hash-format = "sha512"
+hash = "42449bc5b9903499805211c91574e0986e7d0b8c1768ca00b74eb57a35f38983e04bb5c3cdaa208583829c36538c69181ac1dc3dccc39d89802f99bb2a5979bc"
+
+[update]
+[update.modrinth]
+mod-id = "81HKpFAE"
+version = "16bfnopl"

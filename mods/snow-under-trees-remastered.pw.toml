@@ -1,0 +1,13 @@
+name = "Snow Under Trees (Fabric)"
+filename = "snow-under-trees-fabric-1.1.0+1.19.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XVnUIUAQ/versions/X3GeLDV2/snow-under-trees-fabric-1.1.0%2B1.19.4.jar"
+hash-format = "sha512"
+hash = "089dc40e39734dca28937009a2a25ed05a27c9fc933fc987af22b54bbed9bb2ac12fcd9ec5c45339fe60546d0a7b8e2cde7334c4d9072dd44fac770df3eb541d"
+
+[update]
+[update.modrinth]
+mod-id = "XVnUIUAQ"
+version = "X3GeLDV2"

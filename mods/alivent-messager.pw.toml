@@ -1,0 +1,13 @@
+name = "Aliven't Messager"
+filename = "[1.19.4]-alivent-messenger-1.2.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sH61m11u/versions/tazvMDPZ/%5B1.19.4%5D-alivent-messenger-1.2.7.jar"
+hash-format = "sha512"
+hash = "ee8eec32a36318dc4eddba02080d03512c02d81ac283e299ab08df14ab845a0e845878e0b4800482c19abd07c96acc48039e03dc9e0aa6edc958437cac64e745"
+
+[update]
+[update.modrinth]
+mod-id = "sH61m11u"
+version = "tazvMDPZ"

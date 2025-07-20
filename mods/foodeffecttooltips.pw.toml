@@ -1,0 +1,13 @@
+name = "Food Effect Tooltips"
+filename = "foodeffecttooltips-1.1.1-1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GGfyJWnG/versions/pLmZERF9/foodeffecttooltips-1.1.1-1.19.4.jar"
+hash-format = "sha512"
+hash = "740fc0136bbc8e00a6f8e34c700b1717a33e0648a68a6c304957fb71b7a39fa6c7f969b4ca47199c4a2a7d43fb75fb48fc36a337b8b4cef381870c41bd09a732"
+
+[update]
+[update.modrinth]
+mod-id = "GGfyJWnG"
+version = "pLmZERF9"

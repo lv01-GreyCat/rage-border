@@ -1,0 +1,13 @@
+name = "Classic 3D"
+filename = "§6§lClassic 3D§c v2.0.0-A.9§e 1.19.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FRSckbRo/versions/4yECtpxR/%C2%A76%C2%A7lClassic%203D%C2%A7c%20v2.0.0-A.9%C2%A7e%201.19.zip"
+hash-format = "sha512"
+hash = "28ff2059eecaa023b05327e21402c167dd7b2522fd589eed79eda9561d5a2acffecddda5aed533c53a372553bc12158b87d0b99de05ec7d4dcf6191ba655f6f5"
+
+[update]
+[update.modrinth]
+mod-id = "FRSckbRo"
+version = "4yECtpxR"

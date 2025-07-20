@@ -1,0 +1,13 @@
+name = "Chat Notify"
+filename = "chat-notify-1.0.2+mc1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iudurxl8/versions/m9I3HUG4/chat-notify-1.0.2%2Bmc1.19.4.jar"
+hash-format = "sha512"
+hash = "7e57485a3f44defb1def77270bb417224c7899a6178ac75c6de2d3abd1a45dcb0bbc97d922ba8c36600175afdec9b1ea02d9b93577cac4b0c573291661ca94d8"
+
+[update]
+[update.modrinth]
+mod-id = "Iudurxl8"
+version = "m9I3HUG4"

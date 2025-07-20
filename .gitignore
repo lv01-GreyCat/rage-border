@@ -1,0 +1,5 @@
+# Exclude exported modpacks
+*.mrpack
+*.zip
+
+/pack/options.txt
