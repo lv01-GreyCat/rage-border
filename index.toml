@@ -453,11 +453,6 @@ hash = "c0d2a8f6068419557b957615e7db354a0e0caa994b18c98563307a9feb8a0b5f"
 metafile = true
 
 [[files]]
-file = "mods/spawn-animations.pw.toml"
-hash = "c11483737707f6f419b22c901f6bec59393e3b9e143194e983df7e60155aa27c"
-metafile = true
-
-[[files]]
 file = "mods/spyglass-astronomy.pw.toml"
 hash = "eb12369f659c3998f40d39a947dde509afcd1881fec39150be9425c827ba99a0"
 metafile = true
