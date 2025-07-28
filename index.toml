@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "edab490a65490b4eb04005026d73e5c85f140157344317090cdddd72034b1942"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "b3000690eb5d0182c72297f8e9adad2a0e5fb582f54d536cb62d6217d1811b6d"
 
@@ -33,12 +37,16 @@ file = "config/yosbr/config/ping-wheel.json"
 hash = "8bbb725afa4d20787806f8d5a60461f669ade2d4a2b743c1df3666a0a28e8449"
 
 [[files]]
+file = "config/yosbr/config/rightclickharvest.json"
+hash = "319eb7d6c5bc3df852c9b0db1461466664a94d77aacdb853cab6a4422c85e82d"
+
+[[files]]
 file = "config/yosbr/config/seamless_loading_screen.json"
 hash = "3fb4bbe5c4e5954f62a506ee322ee2d7fd63c89f435ca4028e2be327cd06bee4"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "52055136c3a4957c24f9bb9ef07bb7ad08c9f6c6ed7f5656a2de3364223552af"
+hash = "21eae00ec721141564358406ec288b2d48311e9d6afb1a1806995c145c876962"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -55,8 +63,18 @@ hash = "ce3e920b1d69da824577cc593a5ce8080d2e8434fcbf17cc65c7be538d8ec7f5"
 metafile = true
 
 [[files]]
+file = "mods/autopath.pw.toml"
+hash = "112939f8518cedd3332ce68a30a799d35b89b14ca190767c7dc5685ba1a68afe"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "33e50f03471b98a1474127ef48903cdd4dbd0a28e61c80260eeeaa3c6ee60230"
+metafile = true
+
+[[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "e6dc9b754cad2d80362ecb534f7f270b08a1f05361cafe132f6b3e2f4b8f4065"
 metafile = true
 
 [[files]]
@@ -95,8 +113,18 @@ hash = "ec5e95b54d57abf8edfe1ceccc6d44de2501657d4f228140c5f768c3691ce505"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "5196a1f6e0088011ba4382429c1eca7b812e30b138510ecc5102a7955a780fbe"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "f99954ed9dd90951ecd55ed88da91fc018439333d930fd0dfc885b48b7e3952b"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "c7669abea0e548ebc03f41d968af592f792aebb56b5be647d59c48457c3b301a"
 metafile = true
 
 [[files]]
@@ -135,6 +163,11 @@ hash = "b8885c48ae2c0121cf68c6689849debdb4b62a70990be12e267ae71a6e7ff0d0"
 metafile = true
 
 [[files]]
+file = "mods/connected-doors.pw.toml"
+hash = "b8a2e37659349f47944acec3433e6374b22c60e08035efc69efb54fc80e0dc79"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "de26cd1f8d8e16df0bb8681cae36bc02fba5c4f7f4f854928a6102300cc321b3"
 metafile = true
@@ -160,6 +193,16 @@ hash = "0ca3514316c90eb442f12f29f31372b9bd0e68ca1e33bce7fa59333bfd73a102"
 metafile = true
 
 [[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "0a0845e5f11cc1e426cf934aa687810ff86a8398f60111053b0ac29569b2f12f"
+metafile = true
+
+[[files]]
+file = "mods/dripsounds.pw.toml"
+hash = "f3370281c253b8359f075df993319e661088fa69050981952459a76f4858ee74"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "7b17dfa71889df8a1be25c5a8b300f0f0e577a7b64036c9529c3ad5f9e8d2cd8"
 metafile = true
@@ -167,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/edgeless-chat-screen.pw.toml"
 hash = "80e76eaec00c6f0c08b6bb52bc413150b664a99eaa504b3217a5d5f84c42d452"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "72248c83877751e7eb1b90973fe54ab2650827ac2fa3828bfd021f2c38d2e9f1"
 metafile = true
 
 [[files]]
@@ -265,6 +313,11 @@ hash = "9121f7e2c9abcb55b8c60c729f63f9b8f4c4ad07e4a2c9ab9eaf5cccdcdaaf74"
 metafile = true
 
 [[files]]
+file = "mods/immersivethunder.pw.toml"
+hash = "159dc59edb458d5e3108257c61bc0619016be9cc4b7666cdf3f704a2ca5bc2f0"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "fb1404cb6de67f57ac060e54b960ee02b1c5ac7c9dd196bdb9b9b2f65f79d549"
 metafile = true
@@ -272,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "f3aebff50fc3e87f8441cb8e0f295968bbb3059304cfbf523ab3d5644dbb5cda"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "f6c15e333a5bdeffeddc2a4d0a130a41af2e2f564d421a901d5cac0ae5d61e23"
 metafile = true
 
 [[files]]
@@ -300,6 +358,11 @@ hash = "b1b02e4f7d67467dd63b6f5c24b039b87e805cd1784cdccdff51855c4dbe5bb5"
 metafile = true
 
 [[files]]
+file = "mods/music-notification.pw.toml"
+hash = "4e270bb6dfb3d21a46e6cad052bc127e5cbd9d667bed16bd4f91a9374127e2ea"
+metafile = true
+
+[[files]]
 file = "mods/namepain.pw.toml"
 hash = "b393124373ab99984a4195bd904c870c82de1b7647619acbb1cdbc8e2f9dcd69"
 metafile = true
@@ -322,6 +385,16 @@ metafile = true
 [[files]]
 file = "mods/notes.pw.toml"
 hash = "c469be2b3ef442bf4d61f72deffa28586a2fb4290358cddf0a68a0bf8e741b38"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "f0baa8708ef16855f5bb5ad67578e67a003201331702d54bd4d84b25fb529a61"
+metafile = true
+
+[[files]]
+file = "mods/pathunderfencegates.pw.toml"
+hash = "546ac4483fa0818031ea1b981d47309da5419c5e42c25ad6c44ee93c0e1f2807"
 metafile = true
 
 [[files]]
@@ -350,6 +423,11 @@ hash = "c7a36cf5965c7c3b32a816f250d43f440a4e95c64e856bf47cca79b9f916660d"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "328df83f1bd29edfc4585ce60754221f4ca255348bd92ee6affbcd112b6fb994"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "266e0d5d05e50e8699171db878f31566bae6e65836fb6cc7e6ebfd266f2a0b0e"
 metafile = true
@@ -375,6 +453,16 @@ hash = "c0d2a8f6068419557b957615e7db354a0e0caa994b18c98563307a9feb8a0b5f"
 metafile = true
 
 [[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "c11483737707f6f419b22c901f6bec59393e3b9e143194e983df7e60155aa27c"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "eb12369f659c3998f40d39a947dde509afcd1881fec39150be9425c827ba99a0"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "950d014c2a1f3fc7c1fcc14d6207ddd0e32ec65a9e12099f2a7ff387f8614ab8"
 metafile = true
@@ -387,6 +475,16 @@ metafile = true
 [[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "4655ca7fa29b7c0d1aabc5bd92251acc60703ef6ed50894de17794fbb5dbdcaa"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "6cd0db0deeeebd80127cd2bbc349d3ec0f82bfafb44f74d178821fd4df16accb"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "6f529208b5bf5848fc711d2c7ebae41921567756d5547d36463da0817f8d4f43"
 metafile = true
 
 [[files]]
@@ -440,8 +538,22 @@ hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "796848e09801a0f0113913cb6e06a0a2960428e9b2471a61d33216f7c2ff3c90"
+
+[[files]]
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
+metafile = true
+
+[[files]]
 file = "resourcepacks/3d-default.pw.toml"
 hash = "eed38b84e02eaab194ad75249916cbde57d16c23e39a4c8f9aa7393e3e9352cb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/animated-dragon-totem.pw.toml"
+hash = "5b1b7e59b6e8deb3a71df2fd8394aeacf88b847d1af9174f77c914e9dec94271"
 metafile = true
 
 [[files]]
@@ -450,8 +562,18 @@ hash = "958a7665d6d399a3471244d3baa5774ac94f108d02363680dbccd5bcb891bac8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-shadow-entity!.pw.toml"
+hash = "67af31e3923f5ccbde8942966a897c6757f84ff08148ab9137e7668fd157c25b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cassette-music-disc-countxd.pw.toml"
 hash = "42218fd5b2750dbb7f5e945755644fe3b9e4be33a46fcd6596508bb50f832183"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cassette-player.pw.toml"
+hash = "e73ca8102b35dcd23eda10eb1a6ae5efb4942da40524b2f90e12b6882242a8d4"
 metafile = true
 
 [[files]]

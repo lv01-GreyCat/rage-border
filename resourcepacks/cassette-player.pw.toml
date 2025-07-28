@@ -1,0 +1,13 @@
+name = "Cassette Player!"
+filename = "CassettePlayerV1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pbglPZqJ/versions/9almW0vy/CassettePlayerV1.zip"
+hash-format = "sha512"
+hash = "358774a53460e13b9362742aa07f043ea4a097665c478ad360a5ed41751301c798574980a4e4bf042fb82e7ad6cffe5f8beb674ce44ee8e532ab0d39c23cadac"
+
+[update]
+[update.modrinth]
+mod-id = "pbglPZqJ"
+version = "9almW0vy"

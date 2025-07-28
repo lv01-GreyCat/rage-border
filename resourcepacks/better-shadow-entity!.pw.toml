@@ -1,0 +1,13 @@
+name = "Better Shadow Entity!"
+filename = "Better Entity Shadow! (2.0v).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eQKmOGS3/versions/CkJTVsxB/Better%20Entity%20Shadow%21%20%282.0v%29.zip"
+hash-format = "sha512"
+hash = "d82601217f6870c5770992ee5bfa7fd1031d72e292c7b79963985f727f9e9e9411a3885283a4ca2a5a137302f2bfd770ca93516c9fca8e87a668f6264f5bf148"
+
+[update]
+[update.modrinth]
+mod-id = "eQKmOGS3"
+version = "CkJTVsxB"

@@ -1,0 +1,13 @@
+name = "Music Notification"
+filename = "musicnotification-1.6.1+1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A4YQgwzz/versions/kwRaGQhY/musicnotification-1.6.1%2B1.19.4.jar"
+hash-format = "sha512"
+hash = "45306af86061c0b06cb994920449c3c90c5889c078971e3927e9f83279ab817646c3b1c06eb7c5fae86d12b804926ce70394749220797adae1bb694477652591"
+
+[update]
+[update.modrinth]
+mod-id = "A4YQgwzz"
+version = "kwRaGQhY"

@@ -1,0 +1,13 @@
+name = "Path Under Fence Gates"
+filename = "pathunderfencegates-1.4.1+mc1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MD6yYHfJ/versions/bIG5BxC1/pathunderfencegates-1.4.1%2Bmc1.19.x.jar"
+hash-format = "sha512"
+hash = "bf1f8c17970e2748396eead7d20fd239bfc615e49e44e59e728e6ba06109939c58fe5e4e5f40a0590041f2c3757b19b290bd0e3da957b6001099fb5a63fe29f9"
+
+[update]
+[update.modrinth]
+mod-id = "MD6yYHfJ"
+version = "bIG5BxC1"
