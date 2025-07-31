@@ -2,4 +2,5 @@
 *.mrpack
 *.zip
 
-/pack/options.txt
+/.packwizignore
+/options.txt
