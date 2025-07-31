@@ -1,0 +1,13 @@
+name = "Areas"
+filename = "areas-1.19.4-5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NWvsqJ2Z/versions/kF66ofbG/areas-1.19.4-5.0.jar"
+hash-format = "sha512"
+hash = "347348d775ebf04a3cbbd0857ad9be9225876be6a21ca06b0daf27b82921eabe022b7e47547f10b449c15c4f3972d9844e744f9ab534d8daccc448f0297685c7"
+
+[update]
+[update.modrinth]
+mod-id = "NWvsqJ2Z"
+version = "kF66ofbG"
