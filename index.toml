@@ -63,6 +63,11 @@ hash = "ce3e920b1d69da824577cc593a5ce8080d2e8434fcbf17cc65c7be538d8ec7f5"
 metafile = true
 
 [[files]]
+file = "mods/areas.pw.toml"
+hash = "13053d3c3a257633a7a696ea5b55f399d21cc707b24eb5ea7ee8c3d7038d5c7d"
+metafile = true
+
+[[files]]
 file = "mods/autopath.pw.toml"
 hash = "112939f8518cedd3332ce68a30a799d35b89b14ca190767c7dc5685ba1a68afe"
 metafile = true
@@ -428,6 +433,11 @@ hash = "328df83f1bd29edfc4585ce60754221f4ca255348bd92ee6affbcd112b6fb994"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "420e2535a243dbd6f6853fc08199eb1fad9307d39148be3d05b6ac2a86eaeef2"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "266e0d5d05e50e8699171db878f31566bae6e65836fb6cc7e6ebfd266f2a0b0e"
 metafile = true
@@ -450,6 +460,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c0d2a8f6068419557b957615e7db354a0e0caa994b18c98563307a9feb8a0b5f"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9e40605536180152b87270aadf758d93b39f2da39e95534d163fa501c5131af6"
 metafile = true
 
 [[files]]
@@ -531,10 +546,6 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "796848e09801a0f0113913cb6e06a0a2960428e9b2471a61d33216f7c2ff3c90"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"

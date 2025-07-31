@@ -1,12 +1,12 @@
 name = "Rage Border"
 author = "Grey Cat"
-version = "2.0.0"
+version = "2.1.1-develop"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "85b634420033961c0ec3ecaea01bac64901b9d1c957d3e49266b21cf96323665"
+hash = "780c983f5292a7ae9c058c51c42234a7e1c5d145d7f785477416695fe90ce591"
 
 [versions]
 fabric = "0.16.14"
