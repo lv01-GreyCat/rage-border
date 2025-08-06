@@ -67,6 +67,11 @@ hash = "ce3e920b1d69da824577cc593a5ce8080d2e8434fcbf17cc65c7be538d8ec7f5"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "34c16397b25b263eb55435eaf1ae758d6747da76fb7319734df0f92725c165cc"
+metafile = true
+
+[[files]]
 file = "mods/areas.pw.toml"
 hash = "13053d3c3a257633a7a696ea5b55f399d21cc707b24eb5ea7ee8c3d7038d5c7d"
 metafile = true
@@ -127,6 +132,11 @@ hash = "5196a1f6e0088011ba4382429c1eca7b812e30b138510ecc5102a7955a780fbe"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "e3d35882073b4acc9b627449d36df1ea4bd95054f95a90b8a5f9f246f65bf5ad"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "f99954ed9dd90951ecd55ed88da91fc018439333d930fd0dfc885b48b7e3952b"
 metafile = true
@@ -159,6 +169,11 @@ metafile = true
 [[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "058d9ab97bedd222d8980e19f8207d65275f3e3b303ad720e8572daf97816de0"
+metafile = true
+
+[[files]]
+file = "mods/clientsidenoteblocks.pw.toml"
+hash = "f73e85bda47483784c81419d2a488741dc3d18ad5053df7e845db04bc9ae6601"
 metafile = true
 
 [[files]]
@@ -262,6 +277,11 @@ hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
+file = "mods/fast-minecart.pw.toml"
+hash = "7f1d6fd22908bf803be16546278cc6e0d763df7686e48534bdf8a892f6825b34"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "c848699c8a84b7dff1b056bff62140fd465f62fede63641fcb5773d0a89ae2e0"
 metafile = true
@@ -284,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "dc0f3025dc000004149e66e2471b21dbe2d9ff9a157fb37db49abaef7697fb85"
+metafile = true
+
+[[files]]
+file = "mods/gamemenuremovegfarb.pw.toml"
+hash = "7ba1ee17ae84573c42962307ddca83c8874f9d6f728a5a3937499c56517d97c7"
 metafile = true
 
 [[files]]
@@ -427,6 +452,16 @@ hash = "677a669e2b404244af6026ea3cad4f47de1cbb0b538339164dc73e993bbce614"
 metafile = true
 
 [[files]]
+file = "mods/rain-be-gone-ritual.pw.toml"
+hash = "dc1c185b3d49554ae89b52c37ebc25d7013c276b40725dbcafc0dd29df8be9b0"
+metafile = true
+
+[[files]]
+file = "mods/realms-button-remover.pw.toml"
+hash = "bbfe4c579d6adf0d6c4f87c063bcfa186c217b131953e528c4382bf62c60fda4"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c7a36cf5965c7c3b32a816f250d43f440a4e95c64e856bf47cca79b9f916660d"
 metafile = true
@@ -554,6 +589,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
+file = "mods/you-died.pw.toml"
+hash = "039c99065a15a68f416fc687a3c5aac8418a41bc236e0a2b96015bffa66750b7"
 metafile = true
 
 [[files]]

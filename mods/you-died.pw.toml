@@ -1,0 +1,13 @@
+name = "You Died"
+filename = "YouDied-1.19.4-2.3.0.16-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgxY6tZf/versions/ZgT2Dlbt/YouDied-1.19.4-2.3.0.16-fabric.jar"
+hash-format = "sha512"
+hash = "64f913e484e7db527b1bdf6234ee152a9ff7f100f9b19d51498a1bd2eb45153f97e9971dc0ceec5a289f59380c7003008afbb3bf0484fdebaa9a564df3d20437"
+
+[update]
+[update.modrinth]
+mod-id = "QgxY6tZf"
+version = "ZgT2Dlbt"

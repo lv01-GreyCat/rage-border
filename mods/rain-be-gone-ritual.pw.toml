@@ -1,0 +1,13 @@
+name = "Rain Be Gone Ritual"
+filename = "rainbegoneritual-1.19.4-3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/172ZQNmN/versions/cbIsXdYm/rainbegoneritual-1.19.4-3.0.jar"
+hash-format = "sha512"
+hash = "a968f655ae84eac4411df09a56340619b5164fd9a886ef5a5033cc4c552ee28411ee855fdfbae00a83e1c6c8ffdfa756b41c473ad56f326ae026ddcb4cb103f8"
+
+[update]
+[update.modrinth]
+mod-id = "172ZQNmN"
+version = "cbIsXdYm"
